@@ -5,35 +5,43 @@ body
 }
 .banner
 {
-    background:url("/color-powder.jpg");
+    background:url("/blackwall.jpg");
     min-height: 500px;
     max-height: 500px;
     background-size: cover;
-    background-position: center;
+    /* background-position: center center; */
     background-repeat: no-repeat;
     font-family: 'ZCOOL QingKe HuangYou';
     text-align: center;
+    padding: 1%;
 }
 
-.test
+
+
+.banner-text
 {
-    font-size: 72px;
-    color: white;
+    position: relative;
+    margin-top: 10%;
 }
 
 .club-name
 {
-    margin-bottom: 0;
-    margin-top: 0;
-        
-
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 72px;
+    color: white;
 }
+
+
 
 .tagline
 {
-    font-size: 36px;
+    font-size: 38px;
     color:white;
+    font-family: 'Courier New', Courier, monospace;
+
 }
+
+
 
 .activities
 {
@@ -96,4 +104,11 @@ body
     font-size: 24px;
     font-family:Staatliches;
     color: 	#008080;
+}
+
+.copyright-text
+{
+    color: white;
+    font-family: "Roboto condensed";
+    margin-top: 2%;
 }
