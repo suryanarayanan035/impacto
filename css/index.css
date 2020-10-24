@@ -1,0 +1,99 @@
+
+body
+{
+    margin: 0;
+}
+.banner
+{
+    background:url("/color-powder.jpg");
+    min-height: 500px;
+    max-height: 500px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'ZCOOL QingKe HuangYou';
+    text-align: center;
+}
+
+.test
+{
+    font-size: 72px;
+    color: white;
+}
+
+.club-name
+{
+    margin-bottom: 0;
+    margin-top: 0;
+        
+
+}
+
+.tagline
+{
+    font-size: 36px;
+    color:white;
+}
+
+.activities
+{
+    margin-top: 0;
+    background-color: #F0F8FF;
+    text-align: center;
+}
+.activity
+{
+    margin: 1%;
+    padding:1%;
+    
+}
+.activity-img
+{
+    display: inline-block;
+    margin:5%;
+}
+.icon
+{
+    height: 200px;
+    width: 200px;
+
+}
+.activity-text
+{
+    position:relative;
+    text-align: justify;
+    display: inline-block;
+    width:50%;
+    bottom: 50px;
+    margin-left: 5%;
+    font-family: overpass;
+}
+
+.footer
+{
+    background-color: #66BFBF;
+    min-height: 200px;
+    text-align: center;
+}
+
+.contact-link
+{
+    display: inline-block;
+    margin-right: 3%;
+    margin-top: 3%;
+    font-family: "Varela Round";
+    text-decoration: none;
+}
+
+.main-title
+{
+    font-size: 48px;
+    font-family: "Roboto Condensed";
+}
+
+.activity-title
+{
+    font-size: 24px;
+    font-family:Staatliches;
+    color: 	#008080;
+}
